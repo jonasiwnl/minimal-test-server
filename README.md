@@ -1,1 +1,1 @@
-## This is a simple test server for testing proxies & stuff.
+## A collection of simple test servers for testing proxies & stuff.
